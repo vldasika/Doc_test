@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Clearsense is working to break the bias in the workplace, offering a company culture that celebrates diversity, inclusion, and our differences. If you're interested in joining our team, we invite you to [connect with us](https://clearsense.com/)
