@@ -1,36 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Clearsense
 
-You can use the [editor on GitHub](https://github.com/vldasika/Doc_test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Trusted Data. Infinite Outcomes.**
+
+It's time healthcare had an all-in-one approach to data-driven decision-making. From archive and access, data management, data science, analytics, and reporting, the Clearsense portfolio of products offers an ROI-forward approach — all from a single platform.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The Next Generation Automated Data Management Platform
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In one end-to-end platform, Clearsense integrates your data from any source, maintains line of sight from source to target, jumpstarts ROI in your existing Business Intelligence (BI) tools, and unlocks value for clinical, operations, financial, and research stakeholders without the need to hire specialized staff.
 
-```markdown
-Syntax highlighted code block
+## The Clearsense Data Management Platform
 
-# Header 1
-## Header 2
-### Header 3
+![Image](C:\Users\sysadmin\Desktop\Work\Clearsense)
 
-- Bulleted
-- List
+### Get to Know Us
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vldasika/Doc_test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Committed to leading transformation in healthcare, Clearsense® creates a data journey, all the way from a number to key insight. Cloud-based, AI-enabled, and HITRUST-certified, the platform of data solutions ensure data governance, implementation, and analytics are rapidly mainstreamed while remaining scalable and secure. Driving faster outcomes in clinical, financial, and operational environments. **Clearsense is powering the innovation of tomorrow — right now.**
 
 ### Support or Contact
 
