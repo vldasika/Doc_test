@@ -4,15 +4,18 @@
 
 It's time healthcare had an all-in-one approach to data-driven decision-making. From archive and access, data management, data science, analytics, and reporting, the Clearsense portfolio of products offers an ROI-forward approach — all from a single platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### The Next Generation Automated Data Management Platform
 
 In one end-to-end platform, Clearsense integrates your data from any source, maintains line of sight from source to target, jumpstarts ROI in your existing Business Intelligence (BI) tools, and unlocks value for clinical, operations, financial, and research stakeholders without the need to hire specialized staff.
 
 ## The Clearsense Data Management Platform
 
-![Image](C:\Users\sysadmin\Desktop\Work\Clearsense)
+![Image](C:\Users\sysadmin\Desktop\Work\Clearsense\Image_1)
+
+
+
+
+
 
 ### Get to Know Us
 
