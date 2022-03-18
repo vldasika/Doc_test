@@ -10,10 +10,7 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 
 ## The Clearsense Data Management Platform
 
-![Image](C:\Users\sysadmin\Desktop\Work\Clearsense\Image_1)
-
-
-
+![Image_1](https://user-images.githubusercontent.com/101863476/158990408-3a3bc5c9-794f-485f-a803-492ece16aaf6.png)
 
 
 
