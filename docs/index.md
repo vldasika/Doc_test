@@ -12,8 +12,6 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 
 ![Image_1](https://user-images.githubusercontent.com/101863476/158990408-3a3bc5c9-794f-485f-a803-492ece16aaf6.png)
 
-
-
 ### Get to Know Us
 
 Committed to leading transformation in healthcare, Clearsense® creates a data journey, all the way from a number to key insight. Cloud-based, AI-enabled, and HITRUST-certified, the platform of data solutions ensure data governance, implementation, and analytics are rapidly mainstreamed while remaining scalable and secure. Driving faster outcomes in clinical, financial, and operational environments. **Clearsense is powering the innovation of tomorrow — right now.**
