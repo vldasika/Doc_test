@@ -1,0 +1,75 @@
+<header class="app-header" data-controller="app-header">
+  <div class="app-header__brand">
+    <div class="app-header__logo-container">
+      <div class="logo app-header__logo">
+  <a href="/compass/" class="logo__link link--unstyled">
+    <span class="sr-only">Compass by Nimble</span>
+  </a>
+</div>
+
+    </div>
+  </div>
+
+  <div class="app-header__search" data-controller="search" data-search-path-prefix="/compass" data-app-header-target="appSearch">
+    <form class="form-search app-header__search-form form" data-search-target="formSearch">
+      <div class="form-search__input-group form__input-group">
+        <span class="form-search__icon form__input-group-text">
+          <svg class="icon" viewBox="0 0 32 32">
+  <use xlink:href="#icon-search"></use>
+</svg>
+        </span>
+        <input type="text" id="searchInput" class="form-search__input form__control" placeholder="Search Compass" autocomplete="off" data-search-target="inputSearch" data-action="focus->search#onInputFocus blur->search#onInputBlur">
+        <button type="button" class="form-search__button button" data-action="search#onButtonClick">
+          <svg class="icon form-search__button-icon" viewBox="0 0 32 32">
+  <use xlink:href="#icon-close"></use>
+</svg>
+        </button>
+      </div>
+      <output class="form-search__result app-header__search-result" for="searchInput">
+        <ul class="list-search-result" data-search-target="listResult">
+          <noscript>JavaScript is required for the search</noscript>
+        </ul>
+      </output>
+    </form>
+    <template id="searchResultItem" data-search-target="templateSearchResultItem">
+      <li class="list-search-result__item">
+        <a href="" class="list-search-result__link">
+          <div class="list-search-result__title"></div>
+          <div class="list-search-result__excerpt"></div>
+          <small class="list-search-result__breadcrumb"></small>
+        </a>
+      </li>
+    </template>
+    <template id="searchNoResult" data-search-target="templateSearchNoResult">
+      <li class="list-search-result__item list-search-result__item--no-result">
+        <svg class="icon list-search-result__icon icon--md" viewBox="0 0 32 32">
+  <use xlink:href="#icon-search-not-found"></use>
+</svg>
+        <div class="list-search-result__message">Sorry, no results for "<mark class="list-search-result__searched-keyword"></mark>"</div>
+      </li>
+    </template>
+  </div>
+
+  <div class="app-header__link">
+    <a href="/" class="link-company">
+  <span>nimblehq.co</span>
+  <svg class="icon link-company__icon" viewBox="0 0 32 32">
+  <use xlink:href="#icon-arrow-tail"></use>
+</svg>
+</a>
+
+  </div>
+
+  <div class="app-header__action">
+    <button type="button" class="app-header__button-action app-header__button-action--search" data-app-header-target="buttonSearch" data-action="app-header#onSearchButtonClick">
+      <svg class="icon icon--md" viewBox="0 0 32 32">
+  <use xlink:href="#icon-search"></use>
+</svg>
+      <span class="sr-only">Toggle Search</span>
+    </button>
+    <button type="button" class="app-header__button-action app-header__button-action--navigation button-hamburger" data-app-header-target="buttonHamburger" data-action="app-header#onHamburgerButtonClick">
+      <i class="button-hamburger__icon"></i>
+      <span class="sr-only">Toggle Menu</span>
+    </button>
+  </div>
+</header>
