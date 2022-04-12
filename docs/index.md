@@ -12,7 +12,7 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 
 [An Internal Link](Documentation/docs/IGnite)
 
-<a href="https://vldasika.github.io/Documentation"></a>
+<a href="https://nimblehq.co/compass"></a>
 
 ### Get to Know Us
 
