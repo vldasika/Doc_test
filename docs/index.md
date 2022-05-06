@@ -21,3 +21,5 @@ Committed to leading transformation in healthcare, Clearsense® creates a data j
 Clearsense is working to break the bias in the workplace, offering a company culture that celebrates diversity, inclusion, and our differences. If you're interested in joining our team, we invite you to [connect with us](https://clearsense.com/)
 
 [https://github.com/vldasika/Documentation/blob/main/docs/IGnite.md](page.md)
+
+[https://github.com/vldasika/Documentation/edit/main/docs/OurProcesses.md](OurProcesses.md)
