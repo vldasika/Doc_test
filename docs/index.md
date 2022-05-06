@@ -10,8 +10,6 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 
 ## The Clearsense Data Management Platform
 
-[An Internal Link](Documentation/docs/IGnite)
-
 <a href="https://nimblehq.co/compass"></a>
 
 ### Get to Know Us
