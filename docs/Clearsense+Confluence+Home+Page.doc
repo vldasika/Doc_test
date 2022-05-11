@@ -1,0 +1,700 @@
+Date: Wed, 11 May 2022 07:04:42 +0000 (UTC)
+Message-ID: <992450506.7543.1652252682962@docs.clearsense.com>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_7542_485863481.1652252682959"
+
+------=_Part_7542_485863481.1652252682959
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Clearsense Confluence Home Page</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Clearsense Confluence Home Page</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"ClearsenseConfluenceHomePage-ArkxHumanResourceDocuments:"=
+>ArkxHuman Resource Documents:</h1>
+<p><a href=3D"/download/attachments/1606127/CS%20Travel%20Policy%208-5-2019=
+%20.pdf?version=3D2&amp;modificationDate=3D1621372089000&amp;api=3Dv2" data=
+-linked-resource-id=3D"49350470" data-linked-resource-version=3D"2" data-li=
+nked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"CS =
+Travel Policy 8-5-2019 .pdf" data-nice-type=3D"PDF Document" data-linked-re=
+source-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense Trave=
+l Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/CLEARSENSE%20EMPLOYEE%20REFERRA=
+L%20POLICY.docx?version=3D1&amp;modificationDate=3D1573824604000&amp;api=3D=
+v2" data-linked-resource-id=3D"51973655" data-linked-resource-version=3D"1"=
+ data-linked-resource-type=3D"attachment" data-linked-resource-default-alia=
+s=3D"CLEARSENSE EMPLOYEE REFERRAL POLICY.docx" data-nice-type=3D"Word Docum=
+ent" data-linked-resource-content-type=3D"application/vnd.openxmlformats-of=
+ficedocument.wordprocessingml.document" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense Emplo=
+yee Referral Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Clearsense%20Required%20Trainin=
+g%20Policy.docx?version=3D2&amp;modificationDate=3D1573824844000&amp;api=3D=
+v2" data-linked-resource-id=3D"51973653" data-linked-resource-version=3D"2"=
+ data-linked-resource-type=3D"attachment" data-linked-resource-default-alia=
+s=3D"Clearsense Required Training Policy.docx" data-nice-type=3D"Word Docum=
+ent" data-linked-resource-content-type=3D"application/vnd.openxmlformats-of=
+ficedocument.wordprocessingml.document" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense Requi=
+red Training Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Trade%20Secret%20Policy%2020220=
+328.pdf?version=3D1&amp;modificationDate=3D1648675091000&amp;api=3Dv2" data=
+-linked-resource-id=3D"102206796" data-linked-resource-version=3D"1" data-l=
+inked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Tr=
+ade Secret Policy 20220328.pdf" data-nice-type=3D"PDF Document" data-linked=
+-resource-content-type=3D"application/pdf" data-linked-resource-container-i=
+d=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense Trad=
+e Secret Polic</a><a href=3D"/download/attachments/1606127/Trade%20Secret%2=
+0Policy%2020220328.pdf?version=3D1&amp;modificationDate=3D1648675091000&amp=
+;api=3Dv2" data-linked-resource-id=3D"102206796" data-linked-resource-versi=
+on=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defa=
+ult-alias=3D"Trade Secret Policy 20220328.pdf" data-nice-type=3D"PDF Docume=
+nt" data-linked-resource-content-type=3D"application/pdf" data-linked-resou=
+rce-container-id=3D"1606127" data-linked-resource-container-version=3D"51">=
+y</a></p>
+<p><a href=3D"/download/attachments/1606127/Confidential%20Information%20Po=
+licy%2020200220.pdf?version=3D1&amp;modificationDate=3D1612987666000&amp;ap=
+i=3Dv2" data-linked-resource-id=3D"74155246" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Confidential Information Policy 20200220.pdf" data-nice-type=3D"=
+PDF Document" data-linked-resource-content-type=3D"application/pdf" data-li=
+nked-resource-container-id=3D"1606127" data-linked-resource-container-versi=
+on=3D"51">Confidential Information Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Employee%20Handbook%20071421.pd=
+f?version=3D2&amp;modificationDate=3D1633448747000&amp;api=3Dv2" data-linke=
+d-resource-id=3D"91522694" data-linked-resource-version=3D"2" data-linked-r=
+esource-type=3D"attachment" data-linked-resource-default-alias=3D"Employee =
+Handbook 071421.pdf" data-nice-type=3D"PDF Document" data-linked-resource-c=
+ontent-type=3D"application/pdf" data-linked-resource-container-id=3D"160612=
+7" data-linked-resource-container-version=3D"51">Clearsense Employee Handbo=
+ok</a></p>
+<p><a href=3D"/download/attachments/1606127/Clearsense%20Paid%20Time%20Off%=
+202021%20Final.docx?version=3D1&amp;modificationDate=3D1633448899000&amp;ap=
+i=3Dv2" data-linked-resource-id=3D"91522697" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Clearsense Paid Time Off 2021 Final.docx" data-nice-type=3D"Word=
+ Document" data-linked-resource-content-type=3D"application/vnd.openxmlform=
+ats-officedocument.wordprocessingml.document" data-linked-resource-containe=
+r-id=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense P=
+aid Time Off </a></p>
+<p><br></p>
+<h1 id=3D"ClearsenseConfluenceHomePage-HIPAAPrivacyPolicies:">HIPAA Privacy=
+ Policies:</h1>
+<p><a href=3D"/download/attachments/1606127/Accounting%20of%20Disclosures%2=
+0Policy%2020210205.pdf?version=3D1&amp;modificationDate=3D1612984394000&amp=
+;api=3Dv2" data-linked-resource-id=3D"74155229" data-linked-resource-versio=
+n=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defau=
+lt-alias=3D"Accounting of Disclosures Policy 20210205.pdf" data-nice-type=
+=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" dat=
+a-linked-resource-container-id=3D"1606127" data-linked-resource-container-v=
+ersion=3D"51">Accounting of Disclosures Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Breach%20Response%20and%20Notif=
+ication%20Policy%2020210208.pdf?version=3D1&amp;modificationDate=3D16129849=
+14000&amp;api=3Dv2" data-linked-resource-id=3D"74155235" data-linked-resour=
+ce-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resou=
+rce-default-alias=3D"Breach Response and Notification Policy 20210208.pdf" =
+data-nice-type=3D"PDF Document" data-linked-resource-content-type=3D"applic=
+ation/pdf" data-linked-resource-container-id=3D"1606127" data-linked-resour=
+ce-container-version=3D"51">Breach Response and Notification Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Business%20Associate%20Agreemen=
+t%20Policy%2020210208.pdf?version=3D1&amp;modificationDate=3D1612984395000&=
+amp;api=3Dv2" data-linked-resource-id=3D"74155230" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"Business Associate Agreement Policy 20210208.pdf" data-nice-=
+type=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf"=
+ data-linked-resource-container-id=3D"1606127" data-linked-resource-contain=
+er-version=3D"51">Business Associate Agreement Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Minimum%20Necessary%20Policy%20=
+20210208.pdf?version=3D1&amp;modificationDate=3D1612984395000&amp;api=3Dv2"=
+ data-linked-resource-id=3D"74155232" data-linked-resource-version=3D"1" da=
+ta-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"Minimum Necessary Policy 20210208.pdf" data-nice-type=3D"PDF Document" =
+data-linked-resource-content-type=3D"application/pdf" data-linked-resource-=
+container-id=3D"1606127" data-linked-resource-container-version=3D"51">Mini=
+mum Necessary Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Request%20for%20Access%20to-Ame=
+ndment%20of%20PHI%20Policy%2020210208.pdf?version=3D1&amp;modificationDate=
+=3D1612984396000&amp;api=3Dv2" data-linked-resource-id=3D"74155233" data-li=
+nked-resource-version=3D"1" data-linked-resource-type=3D"attachment" data-l=
+inked-resource-default-alias=3D"Request for Access to-Amendment of PHI Poli=
+cy 20210208.pdf" data-nice-type=3D"PDF Document" data-linked-resource-conte=
+nt-type=3D"application/pdf" data-linked-resource-container-id=3D"1606127" d=
+ata-linked-resource-container-version=3D"51">Request for Access to/Amendmen=
+t of PHI Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Training%20Policy%2020210208.pd=
+f?version=3D1&amp;modificationDate=3D1612984393000&amp;api=3Dv2" data-linke=
+d-resource-id=3D"74155227" data-linked-resource-version=3D"1" data-linked-r=
+esource-type=3D"attachment" data-linked-resource-default-alias=3D"Training =
+Policy 20210208.pdf" data-nice-type=3D"PDF Document" data-linked-resource-c=
+ontent-type=3D"application/pdf" data-linked-resource-container-id=3D"160612=
+7" data-linked-resource-container-version=3D"51">Training Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Use%20and%20Disclosure%20of%20P=
+HI%20Policy%2020210208.pdf?version=3D1&amp;modificationDate=3D1612984394000=
+&amp;api=3Dv2" data-linked-resource-id=3D"74155228" data-linked-resource-ve=
+rsion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-d=
+efault-alias=3D"Use and Disclosure of PHI Policy 20210208.pdf" data-nice-ty=
+pe=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" d=
+ata-linked-resource-container-id=3D"1606127" data-linked-resource-container=
+-version=3D"51">Use and Disclosure of PHI Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Compliance%20Non-Retaliation%20=
+Policy%2020210208.pdf?version=3D1&amp;modificationDate=3D1612984395000&amp;=
+api=3Dv2" data-linked-resource-id=3D"74155231" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Compliance Non-Retaliation Policy 20210208.pdf" data-nice-type=
+=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" dat=
+a-linked-resource-container-id=3D"1606127" data-linked-resource-container-v=
+ersion=3D"51">Compliance Non-Retaliation Policy</a></p>
+<h1 id=3D"ClearsenseConfluenceHomePage-SecurityPolicies:">Security Policies=
+:</h1>
+<p><a href=3D"/download/attachments/1606127/Acceptable_Use_Policy_v2.0.docx=
+.pdf?version=3D1&amp;modificationDate=3D1633529154000&amp;api=3Dv2" data-li=
+nked-resource-id=3D"91522758" data-linked-resource-version=3D"1" data-linke=
+d-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Accept=
+able_Use_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-=
+resource-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Acceptable_Use_P=
+olicy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Access_Control_Policy_v2.0.docx=
+.pdf?version=3D1&amp;modificationDate=3D1633529155000&amp;api=3Dv2" data-li=
+nked-resource-id=3D"91522759" data-linked-resource-version=3D"1" data-linke=
+d-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Access=
+_Control_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-=
+resource-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Access_Control_P=
+olicy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Activity_Log_Review_Policy_v2.0=
+.docx.pdf?version=3D1&amp;modificationDate=3D1633529156000&amp;api=3Dv2" da=
+ta-linked-resource-id=3D"91522760" data-linked-resource-version=3D"1" data-=
+linked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"A=
+ctivity_Log_Review_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" da=
+ta-linked-resource-content-type=3D"application/pdf" data-linked-resource-co=
+ntainer-id=3D"1606127" data-linked-resource-container-version=3D"51">Activi=
+ty_Log_Review_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Asset_Inventory-IT_Asset_Lifecy=
+cle_Program_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529=
+156000&amp;api=3Dv2" data-linked-resource-id=3D"91522761" data-linked-resou=
+rce-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-reso=
+urce-default-alias=3D"Asset_Inventory-IT_Asset_Lifecycle_Program_Policy_v2.=
+0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resource-content-ty=
+pe=3D"application/pdf" data-linked-resource-container-id=3D"1606127" data-l=
+inked-resource-container-version=3D"51">Asset_Inventory-IT_Asset_Lifecycle_=
+Program_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Asset_Management_Policy_v2.1.do=
+cx.pdf?version=3D1&amp;modificationDate=3D1633529157000&amp;api=3Dv2" data-=
+linked-resource-id=3D"91522762" data-linked-resource-version=3D"1" data-lin=
+ked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Asse=
+t_Management_Policy_v2.1.docx.pdf" data-nice-type=3D"PDF Document" data-lin=
+ked-resource-content-type=3D"application/pdf" data-linked-resource-containe=
+r-id=3D"1606127" data-linked-resource-container-version=3D"51">Asset_Manage=
+ment_Policy_v2.1.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Audit_Logging_and_Accountabilit=
+y_Policy_%26_Procedures_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D16=
+33529157000&amp;api=3Dv2" data-linked-resource-id=3D"91522763" data-linked-=
+resource-version=3D"1" data-linked-resource-type=3D"attachment" data-linked=
+-resource-default-alias=3D"Audit_Logging_and_Accountability_Policy_&amp;_Pr=
+ocedures_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resourc=
+e-content-type=3D"application/pdf" data-linked-resource-container-id=3D"160=
+6127" data-linked-resource-container-version=3D"51">Audit_Logging_and_Accou=
+ntability_Policy_&amp;_Procedures_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Configuration_Management_Policy=
+_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529158000&amp;api=3Dv=
+2" data-linked-resource-id=3D"91522764" data-linked-resource-version=3D"1" =
+data-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"Configuration_Management_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Do=
+cument" data-linked-resource-content-type=3D"application/pdf" data-linked-r=
+esource-container-id=3D"1606127" data-linked-resource-container-version=3D"=
+51">Configuration_Management_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Controls_Against_Malicious_Code=
+_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529158000&amp;=
+api=3Dv2" data-linked-resource-id=3D"91522765" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Controls_Against_Malicious_Code_Policy_v2.0.docx.pdf" data-nice-=
+type=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf"=
+ data-linked-resource-container-id=3D"1606127" data-linked-resource-contain=
+er-version=3D"51">Controls_Against_Malicious_Code_Policy_v2.0.docx.pdf</a><=
+/p>
+<p><a href=3D"/download/attachments/1606127/Cybersecurity_Incident_Response=
+_Plan_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529159000&amp;ap=
+i=3Dv2" data-linked-resource-id=3D"91522766" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Cybersecurity_Incident_Response_Plan_v2.0.docx.pdf" data-nice-ty=
+pe=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" d=
+ata-linked-resource-container-id=3D"1606127" data-linked-resource-container=
+-version=3D"51">Cybersecurity_Incident_Response_Plan_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Data_Classification_Policy_v2.0=
+.docx.pdf?version=3D1&amp;modificationDate=3D1633529144000&amp;api=3Dv2" da=
+ta-linked-resource-id=3D"91522738" data-linked-resource-version=3D"1" data-=
+linked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"D=
+ata_Classification_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" da=
+ta-linked-resource-content-type=3D"application/pdf" data-linked-resource-co=
+ntainer-id=3D"1606127" data-linked-resource-container-version=3D"51">Data_C=
+lassification_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Data_Protection_and_Privacy_Pol=
+icy_v2.1.docx.pdf?version=3D1&amp;modificationDate=3D1633529144000&amp;api=
+=3Dv2" data-linked-resource-id=3D"91522739" data-linked-resource-version=3D=
+"1" data-linked-resource-type=3D"attachment" data-linked-resource-default-a=
+lias=3D"Data_Protection_and_Privacy_Policy_v2.1.docx.pdf" data-nice-type=3D=
+"PDF Document" data-linked-resource-content-type=3D"application/pdf" data-l=
+inked-resource-container-id=3D"1606127" data-linked-resource-container-vers=
+ion=3D"51">Data_Protection_and_Privacy_Policy_v2.1.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Data_Retention_Policy-v2.0.docx=
+.pdf?version=3D1&amp;modificationDate=3D1633529144000&amp;api=3Dv2" data-li=
+nked-resource-id=3D"91522740" data-linked-resource-version=3D"1" data-linke=
+d-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Data_R=
+etention_Policy-v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-=
+resource-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Data_Retention_P=
+olicy-v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Employee_Sanction_and_Disciplin=
+ary_Action_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D16335291=
+45000&amp;api=3Dv2" data-linked-resource-id=3D"91522741" data-linked-resour=
+ce-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resou=
+rce-default-alias=3D"Employee_Sanction_and_Disciplinary_Action_Policy_v2.0.=
+docx.pdf" data-nice-type=3D"PDF Document" data-linked-resource-content-type=
+=3D"application/pdf" data-linked-resource-container-id=3D"1606127" data-lin=
+ked-resource-container-version=3D"51">Employee_Sanction_and_Disciplinary_Ac=
+tion_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Encryption_Policy_v2.0.docx.pdf=
+?version=3D1&amp;modificationDate=3D1633529145000&amp;api=3Dv2" data-linked=
+-resource-id=3D"91522742" data-linked-resource-version=3D"1" data-linked-re=
+source-type=3D"attachment" data-linked-resource-default-alias=3D"Encryption=
+_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resource=
+-content-type=3D"application/pdf" data-linked-resource-container-id=3D"1606=
+127" data-linked-resource-container-version=3D"51">Encryption_Policy_v2.0.d=
+ocx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Identity_Theft_Prevention_Polic=
+y_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529146000&amp;api=3D=
+v2" data-linked-resource-id=3D"91522743" data-linked-resource-version=3D"1"=
+ data-linked-resource-type=3D"attachment" data-linked-resource-default-alia=
+s=3D"Identity_Theft_Prevention_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF =
+Document" data-linked-resource-content-type=3D"application/pdf" data-linked=
+-resource-container-id=3D"1606127" data-linked-resource-container-version=
+=3D"51">Identity_Theft_Prevention_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Information_Security_Program_Ov=
+ersight_and_Review_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D=
+1633529146000&amp;api=3Dv2" data-linked-resource-id=3D"91522744" data-linke=
+d-resource-version=3D"1" data-linked-resource-type=3D"attachment" data-link=
+ed-resource-default-alias=3D"Information_Security_Program_Oversight_and_Rev=
+iew_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resou=
+rce-content-type=3D"application/pdf" data-linked-resource-container-id=3D"1=
+606127" data-linked-resource-container-version=3D"51">Information_Security_=
+Program_Oversight_and_Review_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Information_Security_Program_Po=
+licy_v2.1.docx.pdf?version=3D1&amp;modificationDate=3D1633529147000&amp;api=
+=3Dv2" data-linked-resource-id=3D"91522745" data-linked-resource-version=3D=
+"1" data-linked-resource-type=3D"attachment" data-linked-resource-default-a=
+lias=3D"Information_Security_Program_Policy_v2.1.docx.pdf" data-nice-type=
+=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" dat=
+a-linked-resource-container-id=3D"1606127" data-linked-resource-container-v=
+ersion=3D"51">Information_Security_Program_Policy_v2.1.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Insider_Threat_Policy_v2.0.docx=
+.pdf?version=3D1&amp;modificationDate=3D1633529148000&amp;api=3Dv2" data-li=
+nked-resource-id=3D"91522746" data-linked-resource-version=3D"1" data-linke=
+d-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Inside=
+r_Threat_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-=
+resource-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Insider_Threat_P=
+olicy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Maintenance_Policy_v2.0.docx.pd=
+f?version=3D1&amp;modificationDate=3D1633529148000&amp;api=3Dv2" data-linke=
+d-resource-id=3D"91522747" data-linked-resource-version=3D"1" data-linked-r=
+esource-type=3D"attachment" data-linked-resource-default-alias=3D"Maintenan=
+ce_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resour=
+ce-content-type=3D"application/pdf" data-linked-resource-container-id=3D"16=
+06127" data-linked-resource-container-version=3D"51">Maintenance_Policy_v2.=
+0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Network_Access_Control_Policy_v=
+2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529149000&amp;api=3Dv2"=
+ data-linked-resource-id=3D"91522748" data-linked-resource-version=3D"1" da=
+ta-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"Network_Access_Control_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Docu=
+ment" data-linked-resource-content-type=3D"application/pdf" data-linked-res=
+ource-container-id=3D"1606127" data-linked-resource-container-version=3D"51=
+">Network_Access_Control_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Network_Protection_Policy_v2.0.=
+docx.pdf?version=3D1&amp;modificationDate=3D1633529149000&amp;api=3Dv2" dat=
+a-linked-resource-id=3D"91522749" data-linked-resource-version=3D"1" data-l=
+inked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Ne=
+twork_Protection_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data=
+-linked-resource-content-type=3D"application/pdf" data-linked-resource-cont=
+ainer-id=3D"1606127" data-linked-resource-container-version=3D"51">Network_=
+Protection_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Network_Security_Policy_v2.0.do=
+cx.pdf?version=3D1&amp;modificationDate=3D1633529150000&amp;api=3Dv2" data-=
+linked-resource-id=3D"91522750" data-linked-resource-version=3D"1" data-lin=
+ked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Netw=
+ork_Security_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-lin=
+ked-resource-content-type=3D"application/pdf" data-linked-resource-containe=
+r-id=3D"1606127" data-linked-resource-container-version=3D"51">Network_Secu=
+rity_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Password_Policy_v2.0.docx.pdf?v=
+ersion=3D1&amp;modificationDate=3D1633529150000&amp;api=3Dv2" data-linked-r=
+esource-id=3D"91522751" data-linked-resource-version=3D"1" data-linked-reso=
+urce-type=3D"attachment" data-linked-resource-default-alias=3D"Password_Pol=
+icy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-resource-con=
+tent-type=3D"application/pdf" data-linked-resource-container-id=3D"1606127"=
+ data-linked-resource-container-version=3D"51">Password_Policy_v2.0.docx.pd=
+f</a></p>
+<p><a href=3D"/download/attachments/1606127/Physical_and_Environmental_Prot=
+ection_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D163352915100=
+0&amp;api=3Dv2" data-linked-resource-id=3D"91522752" data-linked-resource-v=
+ersion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-=
+default-alias=3D"Physical_and_Environmental_Protection_Policy_v2.0.docx.pdf=
+" data-nice-type=3D"PDF Document" data-linked-resource-content-type=3D"appl=
+ication/pdf" data-linked-resource-container-id=3D"1606127" data-linked-reso=
+urce-container-version=3D"51">Physical_and_Environmental_Protection_Policy_=
+v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Remote_Worker_Policy_v2.0.docx.=
+pdf?version=3D1&amp;modificationDate=3D1633529152000&amp;api=3Dv2" data-lin=
+ked-resource-id=3D"91522753" data-linked-resource-version=3D"1" data-linked=
+-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Remote_=
+Worker_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linked-re=
+source-content-type=3D"application/pdf" data-linked-resource-container-id=
+=3D"1606127" data-linked-resource-container-version=3D"51">Remote_Worker_Po=
+licy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Risk_Management_Policy_v2.0.doc=
+x.pdf?version=3D1&amp;modificationDate=3D1633529152000&amp;api=3Dv2" data-l=
+inked-resource-id=3D"91522754" data-linked-resource-version=3D"1" data-link=
+ed-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Risk_=
+Management_Policy_v2.0.docx.pdf" data-nice-type=3D"PDF Document" data-linke=
+d-resource-content-type=3D"application/pdf" data-linked-resource-container-=
+id=3D"1606127" data-linked-resource-container-version=3D"51">Risk_Managemen=
+t_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Security_Awareness_and_Training=
+_Policy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529153000&amp;=
+api=3Dv2" data-linked-resource-id=3D"91522755" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Security_Awareness_and_Training_Policy_v2.0.docx.pdf" data-nice-=
+type=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf"=
+ data-linked-resource-container-id=3D"1606127" data-linked-resource-contain=
+er-version=3D"51">Security_Awareness_and_Training_Policy_v2.0.docx.pdf</a><=
+/p>
+<p><a href=3D"/download/attachments/1606127/Third_Party_Vendor_Management_P=
+olicy_v2.0.docx.pdf?version=3D1&amp;modificationDate=3D1633529153000&amp;ap=
+i=3Dv2" data-linked-resource-id=3D"91522756" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-defaul=
+t-alias=3D"Third_Party_Vendor_Management_Policy_v2.0.docx.pdf" data-nice-ty=
+pe=3D"PDF Document" data-linked-resource-content-type=3D"application/pdf" d=
+ata-linked-resource-container-id=3D"1606127" data-linked-resource-container=
+-version=3D"51">Third_Party_Vendor_Management_Policy_v2.0.docx.pdf</a></p>
+<p><a href=3D"/download/attachments/1606127/Vulnerability_Management_Policy=
+_v2.1.docx.pdf?version=3D1&amp;modificationDate=3D1633529154000&amp;api=3Dv=
+2" data-linked-resource-id=3D"91522757" data-linked-resource-version=3D"1" =
+data-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"Vulnerability_Management_Policy_v2.1.docx.pdf" data-nice-type=3D"PDF Do=
+cument" data-linked-resource-content-type=3D"application/pdf" data-linked-r=
+esource-container-id=3D"1606127" data-linked-resource-container-version=3D"=
+51">Vulnerability_Management_Policy_v2.1.docx.pdf</a></p>
+<h1 id=3D"ClearsenseConfluenceHomePage-Finance&amp;AccountingPolicies:">Fin=
+ance &amp; Accounting Policies:</h1>
+<p><a href=3D"/download/attachments/1606127/Clearsense%20Purchasing%20Polic=
+y%204.7.21.doc?version=3D1&amp;modificationDate=3D1621372691000&amp;api=3Dv=
+2" data-linked-resource-id=3D"84607157" data-linked-resource-version=3D"1" =
+data-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"Clearsense Purchasing Policy 4.7.21.doc" data-nice-type=3D"Word Documen=
+t" data-linked-resource-content-type=3D"application/msword" data-linked-res=
+ource-container-id=3D"1606127" data-linked-resource-container-version=3D"51=
+">Clearsense Purchasing Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/CLRS%20Credit%20Card%20Policy%2=
+06.18.21.docx?version=3D2&amp;modificationDate=3D1624028113000&amp;api=3Dv2=
+" data-linked-resource-id=3D"87457907" data-linked-resource-version=3D"2" d=
+ata-linked-resource-type=3D"attachment" data-linked-resource-default-alias=
+=3D"CLRS Credit Card Policy 6.18.21.docx" data-nice-type=3D"Word Document" =
+data-linked-resource-content-type=3D"application/vnd.openxmlformats-officed=
+ocument.wordprocessingml.document" data-linked-resource-container-id=3D"160=
+6127" data-linked-resource-container-version=3D"51">Clearsense Credit Card =
+Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/CLRS%20Credit%20Card%20Applicat=
+ion%206.17.21.docx?version=3D1&amp;modificationDate=3D1624028390000&amp;api=
+=3Dv2" data-linked-resource-id=3D"87457909" data-linked-resource-version=3D=
+"1" data-linked-resource-type=3D"attachment" data-linked-resource-default-a=
+lias=3D"CLRS Credit Card Application 6.17.21.docx" data-nice-type=3D"Word D=
+ocument" data-linked-resource-content-type=3D"application/vnd.openxmlformat=
+s-officedocument.wordprocessingml.document" data-linked-resource-container-=
+id=3D"1606127" data-linked-resource-container-version=3D"51">Clearsense Cre=
+dit Card Application</a></p>
+<p><a href=3D"/download/attachments/1606127/CLRS%20Credit%20Card%20Acknowle=
+dgement%20Form%206.3.21.docx?version=3D1&amp;modificationDate=3D16240284700=
+00&amp;api=3Dv2" data-linked-resource-id=3D"87457910" data-linked-resource-=
+version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource=
+-default-alias=3D"CLRS Credit Card Acknowledgement Form 6.3.21.docx" data-n=
+ice-type=3D"Word Document" data-linked-resource-content-type=3D"application=
+/vnd.openxmlformats-officedocument.wordprocessingml.document" data-linked-r=
+esource-container-id=3D"1606127" data-linked-resource-container-version=3D"=
+51">Clearsense Credit Card Acknowledgement Form</a></p>
+<h1 id=3D"ClearsenseConfluenceHomePage-MiscellaneousPolicies:">Miscellaneou=
+s Policies:</h1>
+<p><a href=3D"/download/attachments/1606127/CLEARSENSE%20OPEN%20SOURCE%20SO=
+FTWARE%20POLICY%2020200220.pdf?version=3D1&amp;modificationDate=3D161298765=
+1000&amp;api=3Dv2" data-linked-resource-id=3D"74155245" data-linked-resourc=
+e-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resour=
+ce-default-alias=3D"CLEARSENSE OPEN SOURCE SOFTWARE POLICY 20200220.pdf" da=
+ta-nice-type=3D"PDF Document" data-linked-resource-content-type=3D"applicat=
+ion/pdf" data-linked-resource-container-id=3D"1606127" data-linked-resource=
+-container-version=3D"51">Open Source Software Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Signature%20Authorization%20and=
+%20Delegation%20Authority%20Policy%20v%206-21-2021.pdf?version=3D4&amp;modi=
+ficationDate=3D1624292083000&amp;api=3Dv2" data-linked-resource-id=3D"87457=
+915" data-linked-resource-version=3D"4" data-linked-resource-type=3D"attach=
+ment" data-linked-resource-default-alias=3D"Signature Authorization and Del=
+egation Authority Policy v 6-21-2021.pdf" data-nice-type=3D"PDF Document" d=
+ata-linked-resource-content-type=3D"application/pdf" data-linked-resource-c=
+ontainer-id=3D"1606127" data-linked-resource-container-version=3D"51">Signa=
+ture Authorization and Delegation of Authority Policy</a></p>
+<p><a href=3D"/download/attachments/1606127/Clearsense%20Anti-Bribery%20Pol=
+icy%2020211112.pdf?version=3D1&amp;modificationDate=3D1636752470000&amp;api=
+=3Dv2" data-linked-resource-id=3D"91524014" data-linked-resource-version=3D=
+"1" data-linked-resource-type=3D"attachment" data-linked-resource-default-a=
+lias=3D"Clearsense Anti-Bribery Policy 20211112.pdf" data-nice-type=3D"PDF =
+Document" data-linked-resource-content-type=3D"application/pdf" data-linked=
+-resource-container-id=3D"1606127" data-linked-resource-container-version=
+=3D"51">Anti-Bribery Policy</a></p>
+<h3 id=3D"ClearsenseConfluenceHomePage-Doyouhaveanissueorconcernyouwouldlik=
+etoreportanonymously?Submititatsafehotline.comorcall1-855-662-SAFEusingcomp=
+anyIDnumber0751815007."><strong>Do you have an issue or concern you would l=
+ike to report anonymously? Submit it at <a href=3D"http://safehotline.com" =
+class=3D"external-link" rel=3D"nofollow">safehotline.com</a></strong><stron=
+g> or call 1-855-662-SAFE using&nbsp;company ID number 0751815007.</strong>=
+</h3>
+<h1 id=3D"ClearsenseConfluenceHomePage-ClearsenseInternalHelpdeskPortal"><s=
+pan style=3D"color: rgb(255,204,0);"><a href=3D"https://jira.clearsense.com=
+/servicedesk/customer/portal/5" style=3D"color: rgb(255,204,0);" class=3D"e=
+xternal-link" rel=3D"nofollow">Clearsense Internal Helpdesk Portal</a></spa=
+n></h1>
+<p>Please submit all user, security, or Client related requests to the Inte=
+rnal Helpdesk Portal</p>
+<h1 id=3D"ClearsenseConfluenceHomePage-DirectoryofSpaces">Directory of Spac=
+es</h1>
+<p></p>
+<div class=3D"aui-message aui-message-error">
+<p class=3D"title"><strong>Error rendering macro 'spaces'</strong></p>
+<p>null</p>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_7542_485863481.1652252682959--
