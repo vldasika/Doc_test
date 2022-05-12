@@ -98,3 +98,4 @@ graph TD;
     B-->D;
     C-->D;
 ```
+You can use geo/topoJSON syntax to create interactive maps. **To create a map**, add **geoJSON / topoJSON** inside a fenced code block with the geojson or topojson syntax identifier. 
