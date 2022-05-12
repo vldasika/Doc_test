@@ -50,7 +50,7 @@ Committed to leading transformation in healthcare, Clearsense® creates a data j
 
 Clearsense is working to break the bias in the workplace, offering a company culture that celebrates diversity, inclusion, and our differences. If you're interested in joining our team, we invite you to [connect with us](https://clearsense.com/).
 
-** Any Markdown within the details block will be collapsed until the reader clicks  to expand the details. Within the details block, use the summary tag to create a label to the right.**
+**Any Markdown within the details block will be collapsed until the reader clicks  to expand the details. Within the details block, use the summary tag to create a label to the right.**
 
 <details><summary>CLICK ME</summary>
 <p>
