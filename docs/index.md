@@ -11,6 +11,7 @@ It's time healthcare had an all-in-one approach to data-driven decision-making. 
    - First nested list item
      - Second nested list item
 
+Note: In the web-based editor, you can indent or dedent one or more lines of text by first highlighting the desired lines and then using Tab or Shift+Tab respectively.
 
 In one end-to-end platform, Clearsense integrates your data from any source, maintains line of sight from source to target, jumpstarts ROI in your existing Business Intelligence (BI) tools, and unlocks value for clinical, operations, financial, and research stakeholders without the need to hire specialized staff.
 
