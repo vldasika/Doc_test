@@ -23,3 +23,5 @@ Clearsense is working to break the bias in the workplace, offering a company cul
 [https://github.com/vldasika/Documentation/blob/main/docs/IGnite.md](page.md)
 
 [https://github.com/vldasika/Documentation/blob/main/docs/OurProcesses.md](OurProcesses.md)
+
+This site was built using [GitHub Pages](https://pages.github.com/).
