@@ -50,6 +50,18 @@ Committed to leading transformation in healthcare, Clearsense® creates a data j
 
 Clearsense is working to break the bias in the workplace, offering a company culture that celebrates diversity, inclusion, and our differences. If you're interested in joining our team, we invite you to [connect with us](https://clearsense.com/).
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
 Know our step wise process using [OurProcess](https://github.com/vldasika/Documentation/blob/main/docs/OurProcesses.md).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
