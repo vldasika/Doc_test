@@ -100,10 +100,12 @@ graph TD;
 ```
 You can use geo/topoJSON syntax to create interactive maps. **To create a map**, add **geoJSON / topoJSON** inside a fenced code block with the geojson or topojson syntax identifier. 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d30455.24910706589!2d78.32452630000822!3d17.416291536862353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1652350499737!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ```geojson
 {
   "type": "Polygon",
-  "coordinates": [
+  "coordinates": [ 
       [
           [-90,30],
           [-90,35],
