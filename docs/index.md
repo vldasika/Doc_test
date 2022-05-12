@@ -99,3 +99,18 @@ graph TD;
     C-->D;
 ```
 You can use geo/topoJSON syntax to create interactive maps. **To create a map**, add **geoJSON / topoJSON** inside a fenced code block with the geojson or topojson syntax identifier. 
+
+```geojson
+{
+  "type": "Polygon",
+  "coordinates": [
+      [
+          [-90,30],
+          [-90,35],
+          [-90,35],
+          [-85,35],
+          [-85,30]
+      ]
+  ]
+}
+```
