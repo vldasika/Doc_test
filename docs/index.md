@@ -88,3 +88,12 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
