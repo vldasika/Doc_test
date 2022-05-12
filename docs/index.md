@@ -64,6 +64,12 @@ Clearsense is working to break the bias in the workplace, offering a company cul
 </p>
 </details>
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 Know our step wise process using [OurProcess](https://github.com/vldasika/Documentation/blob/main/docs/OurProcesses.md).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
