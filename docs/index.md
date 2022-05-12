@@ -64,6 +64,8 @@ Clearsense is working to break the bias in the workplace, offering a company cul
 </p>
 </details>
 
+**Syntax highlighting** : You can add an optional language identifier to enable syntax highlighting in your fenced code block.
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
