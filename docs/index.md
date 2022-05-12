@@ -45,3 +45,10 @@ Clearsense is working to break the bias in the workplace, offering a company cul
 Know our step wise process using [OurProcess](https://github.com/vldasika/Documentation/blob/main/docs/OurProcesses.md).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
