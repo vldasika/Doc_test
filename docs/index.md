@@ -23,6 +23,12 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 - Delhi
 - London
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 ### Get to Know Us
 
 Committed to leading transformation in healthcare, Clearsense® creates a data journey, all the way from a number to key insight. Cloud-based, AI-enabled, and HITRUST-certified, the platform of data solutions ensure data governance, implementation, and analytics are rapidly mainstreamed while remaining scalable and secure. Driving faster outcomes in clinical, financial, and operational environments. **Clearsense is powering the innovation of tomorrow — right now.**
