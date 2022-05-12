@@ -7,6 +7,11 @@ It's time healthcare had an all-in-one approach to data-driven decision-making. 
 ![This is an image]("https://github.com/vldasika/Documentation/blob/main/images/download.jpg") 
 ### The Next Generation Automated Data Management Platform
 
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+
 In one end-to-end platform, Clearsense integrates your data from any source, maintains line of sight from source to target, jumpstarts ROI in your existing Business Intelligence (BI) tools, and unlocks value for clinical, operations, financial, and research stakeholders without the need to hire specialized staff.
 
 ## The Clearsense Data Management Platform
