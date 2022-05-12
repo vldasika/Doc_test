@@ -4,7 +4,7 @@
 
 It's time healthcare had an all-in-one approach to data-driven decision-making. From archive and access, data management, data science, analytics, and reporting, the Clearsense portfolio of products offers an ROI-forward approach — all from a single platform.
 
-![This is an image]("C:\Users\vdasika\Downloads\download.jpg") 
+![This is an image]("https://github.com/vldasika/Documentation/blob/main/images/download.jpg") 
 ### The Next Generation Automated Data Management Platform
 
 In one end-to-end platform, Clearsense integrates your data from any source, maintains line of sight from source to target, jumpstarts ROI in your existing Business Intelligence (BI) tools, and unlocks value for clinical, operations, financial, and research stakeholders without the need to hire specialized staff.
