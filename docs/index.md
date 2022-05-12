@@ -28,7 +28,8 @@ In one end-to-end platform, Clearsense integrates your data from any source, mai
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
-To include a pipe | as content within your cell, use a \ before the pipe:
+**To include a pipe | as content within your cell, use a \ before the pipe:**
+
 | Name     | Character |
 | ---      | ---       |
 | Backtick | `         |
