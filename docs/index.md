@@ -90,6 +90,7 @@ function test() {
 ```
 Here is a simple flow chart:
 
+To create a Mermaid diagram, add Mermaid syntax inside a fenced code block with the mermaid language identifier. 
 ```mermaid
 graph TD;
     A-->B;
