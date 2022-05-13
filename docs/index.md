@@ -121,6 +121,6 @@ You can use geo/topoJSON syntax to create interactive maps. **To create a map**,
 ![download](https://user-images.githubusercontent.com/101863476/168213599-23eaf961-ecd1-4033-ad78-c2a75488dac4.jpg)
 
 
-~~ You can indicate emphasis with bold, italic, or strikethrough text in comment fields ~~
+~~You can indicate emphasis with bold, italic, or strikethrough text in comment fields~~
 
 ~~This was mistaken text~~
