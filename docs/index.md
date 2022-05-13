@@ -116,5 +116,6 @@ You can use geo/topoJSON syntax to create interactive maps. **To create a map**,
   ]
 }
 ```
+**Insert /upload/drao and paste a image** - create a new issue, drag and drop the image and copy the source code and include the code in the markdown file. To upload multiple images ata time, select as bundle.
 
 ![download](https://user-images.githubusercontent.com/101863476/168213599-23eaf961-ecd1-4033-ad78-c2a75488dac4.jpg)
