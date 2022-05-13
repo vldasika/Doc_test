@@ -116,3 +116,5 @@ You can use geo/topoJSON syntax to create interactive maps. **To create a map**,
   ]
 }
 ```
+
+<img width="323" alt="Screenshot 2022-05-11 100135" src="https://user-images.githubusercontent.com/101863476/168213222-11a7f4e5-fd79-4782-ae0a-8fde01db5983.png">
