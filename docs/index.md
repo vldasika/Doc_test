@@ -123,4 +123,3 @@ You can use geo/topoJSON syntax to create interactive maps. **To create a map**,
 
 ~~You can indicate emphasis with bold, italic, or strikethrough text in comment fields~~
 
-~~This was mistaken text~~
